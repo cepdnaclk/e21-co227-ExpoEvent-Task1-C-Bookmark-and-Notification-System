@@ -1,19 +1,14 @@
-{
+{   "title": "ExpoEvents"
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "ABEYKOON A.M.S.D.",
+            "email": "e21005@eng.pdn.ac.lk",
+            "eNumber": "E/21/005"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
-        },
-        {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "JAYASOORIYA J.A.D.N.",
+            "email": "e21196@eng.pdn.ac.lk",
+            "eNumber": "E/21/196"
         }
     ],
     "supervisors": [
@@ -26,5 +21,5 @@
             "email": "email@eng.pdn.ac.lk"
         }
     ],
-    "tags": []
+    "tags": ["Web"]
 }
