@@ -9,7 +9,7 @@ title: ExpoEvents
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# ExpoEvents
 
 ---
 
@@ -20,24 +20,20 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/21/005, A.M.S.D. Abeykoon, [e21005@eng.pdn.ac.lk](mailto:e21005@eng.pdn.ac.lk)
+-  E/21/196, J.A.D.N. Jayasooriya, [e21196@eng.pdn.ac.lk](mailto:e21196@eng.pdn.ac.lk)
+
+## Supervisors
+- Ms. Yasodha Vimukthi, [yasodhav@eng.pdn.ac.lk](mailto:yasodhav@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Other Sub Topics](#other-sub-topics)
-3. [Links](#links)
+2. 
 
 ---
 
 ## Introduction
-
- description of the real world problem and solution, impact
-
-## Other Sub Topics
-
-.....
+A web application enabling users to bookmark events at exhibitions and receive timely notifications about their saved events. Users can easily manage their interests by selecting specific exhibitions or activities, ensuring they never miss important happenings through automated reminders and personalized alerts.
 
 ## Links
 
